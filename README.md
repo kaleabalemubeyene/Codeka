@@ -1,5 +1,4 @@
 # Codeka
-K A, [12/13/2024 8:04 PM] 
 <h1 align="center"> 👋 ሰላም, I'm kaleab</h1>
 <h3 align="center">A passionate full stack developer from Ethiopia</h3>
 
