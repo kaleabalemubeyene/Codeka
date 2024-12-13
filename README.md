@@ -1,8 +1,8 @@
-
+ 
 <h1 align="center"> 👋 ሰላም, I'm kaleab</h1>
 <h3 align="center">A passionate full stack developer from Ethiopia</h3>
 
-<h3 align="left">Connect with me:Kaleabalemu335@gmail.com</h3>
+<h3 align="left">Connect with me:   Kaleabalemu335@gmail.com</h3>
 <p align="left">
 </p> 
 
