@@ -1,4 +1,4 @@
-# Codeka
+
 <h1 align="center"> 👋 ሰላም, I'm kaleab</h1>
 <h3 align="center">A passionate full stack developer from Ethiopia</h3>
 
